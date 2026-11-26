@@ -16,7 +16,7 @@ MTP_PHASE_1/
 ├── Report/
 │   └── IITG_Thesis.pdf                       # full thesis (63 pages)
 ├── Presentation notes/
-│   └── Thesis Atharva- 254101010.pptx        # Phase I evaluation deck (22 slides)
+│   └── Thesis Atharva- 254101010 (1).pdf     # Phase I evaluation deck (22 slides)
 └── README.md
 ```
 
